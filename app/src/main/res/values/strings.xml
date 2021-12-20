@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Button Listener (Bonus)</string>
+    <string name="kotlin">kotlin</string>
+    <string name="xml">xml</string>
+</resources>
